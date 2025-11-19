@@ -17,3 +17,12 @@ function sum(l,w){
 }
 let x= sum(10,20);
 console.log(x);
+
+//if else function
+let dohomework=true;
+if(true){
+    console.log("great job");
+}
+else{
+    console.log("not great job");
+};
